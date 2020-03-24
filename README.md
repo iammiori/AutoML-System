@@ -2,3 +2,4 @@
 Make AutoML System 
 
 - model
+- regression 
