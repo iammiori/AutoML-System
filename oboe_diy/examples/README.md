@@ -5,6 +5,6 @@ Examples of how to use the Oboe system.
 
 This directory contains an example of the offline error matrix generation.
 
-2. `classification`
+2. `classification` (ing)
 
 This Jupyter notebook contains examples of the online AutoML fitting and prediction.
