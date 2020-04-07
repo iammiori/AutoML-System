@@ -9,4 +9,4 @@ Make AutoML System
 
 - Spatio-temporal preprocessing
 
-- tensorflow.js
+- tensorflow.js, tensorflow lite
